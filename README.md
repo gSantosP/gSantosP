@@ -1,8 +1,8 @@
 # Gabriel Santos Pereira
 
-Senior Fullstack Developer at — I build applications that solve real business problems, from backend to UI.
+Senior Fullstack Developer at [act digital](https://www.actdigital.com/) — I build applications that solve real business problems, from backend to UI.
 
-I work mainly with **Java/Spring Boot** on the backend and **Angular/Vue.js** on the frontend, deploying to **AWS**. Also experienced with the **Node.js/Express** and **React** ecosystem.
+I work mainly with **Java/Spring Boot** on the backend and **Angular/Vue.js** on the frontend, deploying to **AWS**. Also experienced with the **Node.js/Express** and **React/TypeScript** ecosystem.
 
 ---
 
@@ -12,15 +12,17 @@ I work mainly with **Java/Spring Boot** on the backend and **Angular/Vue.js** on
 **Frontend:** Angular · Vue.js · React · TypeScript  
 **Databases:** PostgreSQL · MongoDB · SQL Server  
 **Infra & DevOps:** AWS · Docker · Git · Linux  
+**Testing:** JUnit · Mockito · Gatling · Vitest  
 
 ---
 
 ### 🚀 Featured projects
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**RepoDoc Agent**](https://github.com/gSantosP/repodoc-agent) | AI agent that reads any GitHub repo and generates onboarding docs automatically with real-time streaming. | Node.js · Claude API · Express |
-| [**desafio-votacao-fullstack**](https://github.com/gSantosP/desafio-votacao-fullstack) | Fullstack voting system — Java backend with integrated frontend. | Java · Spring Boot |
+**[Cooperative Voting System](https://github.com/gSantosP/desafio-votacao-fullstack)** — Fullstack application for managing voting sessions in cooperative assemblies. REST API with real-time voting, timed sessions, CPF validation, and Swagger docs. Includes performance testing with Gatling (smoke/load/stress scenarios up to 2,000 concurrent users), Docker Compose with dev/prod profiles, and a React + TypeScript frontend with filters and live vote counting. Deployed on [Vercel](https://desafio-votacao-fullstack-two.vercel.app).  
+`Java 17` `Spring Boot 3.2` `React 18` `TypeScript` `Docker` `H2/PostgreSQL` `JUnit` `Gatling` `Vitest`
+
+**[RepoDoc Agent](https://github.com/gSantosP/repodoc-agent)** — AI agent that reads any GitHub repository and generates a complete onboarding document in seconds. Fetches the file tree via GitHub API, selects the most relevant files, and streams the generated Markdown back to the UI in real time using the Anthropic Claude API.  
+`Node.js` `Express` `Claude API` `Streaming`
 
 ---
 
