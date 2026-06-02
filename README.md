@@ -1,6 +1,6 @@
 # Gabriel Santos Pereira
 
-Senior Fullstack Developer at [act digital](https://www.actdigital.com/) — I build applications that solve real business problems, from backend to UI.
+Senior Fullstack Developer — I build applications that solve real business problems, from backend to UI.
 
 I work mainly with **Java/Spring Boot** on the backend and **Angular/Vue.js** on the frontend, deploying to **AWS**. Also experienced with the **Node.js/Express** and **React/TypeScript** ecosystem.
 
